@@ -1,0 +1,33 @@
+body img{width: 650px;height: 380px;align-content: center }
+.banner{width:50px; height: 10px; margin:0 auto;position:relative;margin-top: 0px;float:right;align-content: flex-end;color:bisque}
+.banner h3{ padding:10px; float:right; font-size:28px; font-weight:normal; font-family: 'Oswald', sans-serif;position:absolute; top:15px; right:50px;color: aqua}
+
+
+div {
+	 border: 10px solid #665544;
+	 overflow: auto;
+	 width: 100%;}
+body {
+	 font-family: Arial, Verdana, sans-serif;
+	 color: #111111;}
+table {
+	 width: 600px;}
+th, td {
+	 padding: 7px 10px 10px 10px;}
+th {
+	 text-transform: uppercase;
+	 letter-spacing: 0.1em;
+	 font-size: 90%;
+	 border-bottom: 2px solid #111111;
+	 border-top: 1px solid #999;
+	 text-align: left;}
+tr.even {
+	 background-color: #efefef;}
+tr:hover {
+	 background-color: #c3e6e5;}
+.money {
+	 text-align: right;}
+
+#list {text-align: center; background-color: #bbbbaa; text-decoration: 
+}
+#footer{text-align: center;}
